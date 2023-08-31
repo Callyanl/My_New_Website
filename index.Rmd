@@ -2,7 +2,7 @@
 title: "My Research Website"
 ---
 ```{r}
-knitr::include_graphics("/Users/lacio/OneDrive/Pictures/Screenshots/IMG-8121.jpg")
+knitr::include_graphics("/Users/lacio/OneDrive/Pictures/Screenshots/face.jpg")
 ```
 
 Hello Website!
