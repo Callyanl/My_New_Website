@@ -1,7 +1,9 @@
 ---
-title: "My Website"
+title: "My Research Website"
 ---
-![#This is me](\Users\lacio\OneDrive\Pictures\Screenshots\face\)
+```{r}
+knitr::include_graphics("/Users/lacio/OneDrive/Pictures/Screenshots/face.jpg")
+```
 
 Hello Website!
 
